@@ -8,7 +8,7 @@ npm install
 npm run deploy
 
 ## Deploy as web hosting
-firebase depl
+firebase deploy
 
 ## Swagger path
 /api-docs
